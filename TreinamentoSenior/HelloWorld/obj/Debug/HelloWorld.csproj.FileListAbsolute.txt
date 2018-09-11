@@ -1,0 +1,11 @@
+C:\Users\318130076\Desktop\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\318130076\Desktop\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\318130076\Desktop\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\318130076\Desktop\TreinamentoSenior\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\318130076\Desktop\TreinamentoSenior\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\318130076\Desktop\Treinamento\TreinamentoSenior\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
